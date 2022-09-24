@@ -1,0 +1,4 @@
+.show > .nav-link {
+    color: var(--bs-navbar-active-color);
+    font-weight: 400;
+  }
